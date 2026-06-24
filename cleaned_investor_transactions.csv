@@ -1,0 +1,9 @@
+transaction_id,amfi_code,transaction_type,amount,transaction_date,kyc_status
+1,119551,Sip,5000,2026-06-01,YES
+2,119552,Lumpsum,10000,2026-06-02,NO
+4,119551,Sip,5000,,YES
+5,119552,Lumpsum,25000,2026-06-05,NO
+7,119551,Sip,5000,2026-06-07,PENDING
+8,119552,Lumpsum,50000,2026-06-08,YES
+9,119553,Redemption,15000,2026-06-09,NO
+10,119551,Sip,5000,2026-06-10,YES
